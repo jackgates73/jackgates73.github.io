@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.10f2ea09.css",
-    "main.js": "/static/js/main.40ec08c4.js",
+    "main.js": "/static/js/main.186967f9.js",
     "static/js/377.0f3007c1.chunk.js": "/static/js/377.0f3007c1.chunk.js",
     "static/media/2dplatformer.zip": "/static/media/2dplatformer.5487284a0b748f37d949.zip",
     "static/media/finalnetwork2.pdf": "/static/media/finalnetwork2.ce28524ca04cc794a53b.pdf",
@@ -35,11 +35,11 @@
     "static/media/androidApp.png": "/static/media/androidApp.2fe93d1050e87ff12bbd.png",
     "index.html": "/index.html",
     "main.10f2ea09.css.map": "/static/css/main.10f2ea09.css.map",
-    "main.40ec08c4.js.map": "/static/js/main.40ec08c4.js.map",
+    "main.186967f9.js.map": "/static/js/main.186967f9.js.map",
     "377.0f3007c1.chunk.js.map": "/static/js/377.0f3007c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10f2ea09.css",
-    "static/js/main.40ec08c4.js"
+    "static/js/main.186967f9.js"
   ]
 }
